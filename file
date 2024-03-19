@@ -1,0 +1,3 @@
+To approach this lab, i first used the deifntion provdied by our professor. I made sure to set the left and ride nodes. I created classes that stored the node. Then I made a class
+that checked root. i also used the "queue" which loops checking through nodes. If theres a node on right it would add and same for left. I decided to list the who tree which that 
+class listed levels.
